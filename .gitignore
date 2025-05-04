@@ -3,4 +3,3 @@ actions.js
 test.html
 info.html
 logs/*.log
-!logs/sample.log
